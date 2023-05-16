@@ -36,5 +36,4 @@ When determining versions of base Docker images and dependency packages, make su
 The sample is currently aligned to [Databricks Runtime 12.2 LTS](https://docs.databricks.com/release-notes/runtime/12.2.html). This includes:
 
 - Java 8
-- Scala 2.12
 - Python 3.9.5
