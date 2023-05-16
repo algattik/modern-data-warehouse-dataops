@@ -31,7 +31,7 @@ The Devcontainer should have ms-python extension installed and .vscode all the n
 
 ### Dependency and artifact versions
 
-When determining versions of base Docker images and dependency packages, make sure to align versions with the ones used in the Databricks runtime version currently used in deploymen.
+When determining versions of base Docker images and dependency packages, make sure to align versions with the ones used in the Databricks runtime version currently used in deployment.
 
 The sample is currently aligned to [Databricks Runtime 12.2 LTS](https://docs.databricks.com/release-notes/runtime/12.2.html). This includes:
 
